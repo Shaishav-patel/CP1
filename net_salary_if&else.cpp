@@ -19,7 +19,7 @@ int main()
         printf("net salary is %.2f",d);
     }
     else
-        printf("something is not proper");
+        printf("Your Salary can not be less than 5000");
     return 0;
 
 }
